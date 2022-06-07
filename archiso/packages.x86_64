@@ -184,18 +184,6 @@ modemmanager
 usb_modeswitch
 rp-pppoe
 
-# =========================
-# Hardware - Network - VPN
-# =========================
-wireguard-tools
-networkmanager-openconnect
-networkmanager-openvpn
-networkmanager-pptp
-networkmanager-vpnc
-networkmanager-strongswan
-networkmanager-l2tp
-network-manager-sstp
-
 # ================
 # Hardware - Other
 # ================

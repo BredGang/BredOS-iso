@@ -1,7 +1,0 @@
-# Run reflector
----
-type:       "job"
-name:       "reflector"
-interface:  "python"
-script:     "main.py"
-noconfig:   true

@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="BredOS"
-iso_label="ROSL_$(date +%Y%m)"
+iso_label="Bred_$(date +%Y%m)"
 iso_publisher="BredOS <https://bred.shehit.dev>"
 iso_application="BredOS Live/Rescue ISO"
 iso_version="$(date +%Y.%m.%d)"
