@@ -36,7 +36,7 @@ gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
+fish
 grub
 hdparm
 intel-ucode
@@ -119,7 +119,6 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-zsh
 
 # =====================
 # Installer - Calamares
@@ -323,7 +322,6 @@ nvidia-utils
 # Misc 
 # ====
 # yay
-paru-bin
 base-devel
 nano-syntax-highlighting
 neofetch
@@ -336,5 +334,9 @@ packagekit
 # ------------
 # BredOS - misc
 # ------------
+bred-calamares
+bredos-keyring
 lsb-release
 bred-os-release
+chaotic-keyring
+bred-skel-default
